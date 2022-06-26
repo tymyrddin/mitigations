@@ -2,11 +2,11 @@
 
 ## Lockdown
 
-* [Lockdown environment](https://tymyrddin.github.io/app-https://tymyrddin.github.io/app-mitigations/docs/docs/lockdown/README.html)
-* [Communication with server](https://tymyrddin.github.io/app-https://tymyrddin.github.io/app-mitigations/docs/docs/lockdown/Communication-with-server.html)
-* [Containers](https://tymyrddin.github.io/app-https://tymyrddin.github.io/app-mitigations/docs/docs/lockdown/Containers.html)
-* [Hosted repositories](https://tymyrddin.github.io/app-https://tymyrddin.github.io/app-mitigations/docs/docs/lockdown/Hosted-repositories.html)
-* [Allow locked-down clients](https://tymyrddin.github.io/app-https://tymyrddin.github.io/app-mitigations/docs/docs/lockdown/Allow-locked-down-clients.html)
+* [Lockdown environment](https://tymyrddin.github.io/app-mitigations/docs/lockdown/README.html)
+* [Communication with server](https://tymyrddin.github.io/app-mitigations/docs/lockdown/Communication-with-server.html)
+* [Containers](https://tymyrddin.github.io/app-mitigations/docs/lockdown/Containers.html)
+* [Hosted repositories](https://tymyrddin.github.io/app-mitigations/docs/lockdown/Hosted-repositories.html)
+* [Allow locked-down clients](https://tymyrddin.github.io/app-mitigations/docs/lockdown/Allow-locked-down-clients.html)
     
 ## Coding
 
