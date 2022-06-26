@@ -1,4 +1,4 @@
-# Application https://tymyrddin.github.io/app-mitigations/docs
+# Application mitigations
 
 ## Lockdown
 
