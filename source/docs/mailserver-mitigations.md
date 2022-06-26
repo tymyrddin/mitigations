@@ -1,14 +1,14 @@
 # Mail server administration
 
-* [Postfix](https://tymyrddin.github.io/mailserver-mitigations/docs/Postfix.md)
-* [Dovecot](https://tymyrddin.github.io/mailserver-mitigations/docs/Dovecot.md)
-* [Cyrus](https://tymyrddin.github.io/mailserver-mitigations/docs/Cyrus.md)
-* [SASL](https://tymyrddin.github.io/mailserver-mitigations/docs/SASL.md)
-* [TLS](https://tymyrddin.github.io/mailserver-mitigations/docs/TLS.md)
-* [SPF](https://tymyrddin.github.io/mailserver-mitigations/docs/SPF.md)
-* [DKIM](https://tymyrddin.github.io/mailserver-mitigations/docs/DKIM.md)
-* [DANE](https://tymyrddin.github.io/mailserver-mitigations/docs/DANE.md)
-* [Rspamd](https://tymyrddin.github.io/mailserver-mitigations/docs/Rspamd.md)
+* [Postfix](https://tymyrddin.github.io/mailserver-mitigations/docs/Postfix.html)
+* [Dovecot](https://tymyrddin.github.io/mailserver-mitigations/docs/Dovecot.html)
+* [Cyrus](https://tymyrddin.github.io/mailserver-mitigations/docs/Cyrus.html)
+* [SASL](https://tymyrddin.github.io/mailserver-mitigations/docs/SASL.html)
+* [TLS](https://tymyrddin.github.io/mailserver-mitigations/docs/TLS.html)
+* [SPF](https://tymyrddin.github.io/mailserver-mitigations/docs/SPF.html)
+* [DKIM](https://tymyrddin.github.io/mailserver-mitigations/docs/DKIM.html)
+* [DANE](https://tymyrddin.github.io/mailserver-mitigations/docs/DANE.html)
+* [Rspamd](https://tymyrddin.github.io/mailserver-mitigations/docs/Rspamd.html)
 
 ## Notes
 

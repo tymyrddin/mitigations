@@ -2,19 +2,19 @@
 
 ## Apache
 
-* [Chroot Apache](https://tymyrddin.github.io/webserver-mitigations/docs/apache/Chroot-Apache.md)
-* [Hide version and OS identity](https://tymyrddin.github.io/webserver-mitigations/docs/apache/Hide-version-and-OS-identity.md)
-* [Disable directory listing](https://tymyrddin.github.io/webserver-mitigations/docs/apache/Disable-directory-listing.md)
-* [Restrict file and directory access](https://tymyrddin.github.io/webserver-mitigations/docs/apache/Restrict-file-and-directory-access.md)
-* [Install and use mod_security](https://tymyrddin.github.io/webserver-mitigations/docs/apache/mod_security.md)
+* [Chroot Apache](https://tymyrddin.github.io/webserver-mitigations/docs/apache/Chroot-Apache.html)
+* [Hide version and OS identity](https://tymyrddin.github.io/webserver-mitigations/docs/apache/Hide-version-and-OS-identity.html)
+* [Disable directory listing](https://tymyrddin.github.io/webserver-mitigations/docs/apache/Disable-directory-listing.html)
+* [Restrict file and directory access](https://tymyrddin.github.io/webserver-mitigations/docs/apache/Restrict-file-and-directory-access.html)
+* [Install and use mod_security](https://tymyrddin.github.io/webserver-mitigations/docs/apache/mod_security.html)
 
 ## Nginx
 
-* [Chroot Nginx](https://tymyrddin.github.io/webserver-mitigations/docs/nginx/Chroot-Nginx.md)
-* [Hide version and OS identity](https://tymyrddin.github.io/webserver-mitigations/docs/nginx/Hide-version-and-OS-identity.md)
-* [Disable directory listing](https://tymyrddin.github.io/webserver-mitigations/docs/nginx/Disable-SSI-and-CGI-execution.md)
-* [Restrict file and directory access](https://tymyrddin.github.io/webserver-mitigations/docs/nginx/Restrict-file-and-directory-access.md)
-* [Install and use mod_security](https://tymyrddin.github.io/webserver-mitigations/docs/nginx/mod_security.md)
+* [Chroot Nginx](https://tymyrddin.github.io/webserver-mitigations/docs/nginx/Chroot-Nginx.html)
+* [Hide version and OS identity](https://tymyrddin.github.io/webserver-mitigations/docs/nginx/Hide-version-and-OS-identity.html)
+* [Disable directory listing](https://tymyrddin.github.io/webserver-mitigations/docs/nginx/Disable-SSI-and-CGI-execution.html)
+* [Restrict file and directory access](https://tymyrddin.github.io/webserver-mitigations/docs/nginx/Restrict-file-and-directory-access.html)
+* [Install and use mod_security](https://tymyrddin.github.io/webserver-mitigations/docs/nginx/mod_security.html)
 
 ## Notes
 
