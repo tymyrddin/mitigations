@@ -1,6 +1,6 @@
 # Linux server mitigations
 
-![Publish mitigations using Sphinx](https://github.com/tymyrddin/mitigations/workflows/Publish%20mitigations%20using%20Sphinx/badge.svg?branch=main)
+![Publish Mitigations using Sphinx](https://github.com/tymyrddin/mitigations/workflows/Publish%20Mitigations%20using%20Sphinx/badge.svg?branch=main)
  Deployed: https://tymyrddin.github.io/mitigations/
 
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
