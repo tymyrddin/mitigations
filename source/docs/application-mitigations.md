@@ -1,33 +1,33 @@
-# Application mitigations
+# Application https://tymyrddin.github.io/app-mitigations/docs
 
 ## Lockdown
 
-* [Lockdown](mitigations/lockdown/README.html)
-* [Communication with server](mitigations/lockdown/Communication-with-server.html)
-* [Containers](mitigations/lockdown/Containers.html)
-* [Hosted repositories](mitigations/lockdown/Hosted-repositories.html)
-* [Allow locked-down clients](mitigations/lockdown/Allow-locked-down-clients.html)
+* [Lockdown environment](https://tymyrddin.github.io/app-https://tymyrddin.github.io/app-mitigations/docs/docs/lockdown/README.html)
+* [Communication with server](https://tymyrddin.github.io/app-https://tymyrddin.github.io/app-mitigations/docs/docs/lockdown/Communication-with-server.html)
+* [Containers](https://tymyrddin.github.io/app-https://tymyrddin.github.io/app-mitigations/docs/docs/lockdown/Containers.html)
+* [Hosted repositories](https://tymyrddin.github.io/app-https://tymyrddin.github.io/app-mitigations/docs/docs/lockdown/Hosted-repositories.html)
+* [Allow locked-down clients](https://tymyrddin.github.io/app-https://tymyrddin.github.io/app-mitigations/docs/docs/lockdown/Allow-locked-down-clients.html)
     
 ## Coding
 
-* [Coding](mitigations/coding/README.html)
-* [Input validation](mitigations/coding/Input.html)
-* [Output validation](mitigations/coding/Output.html)
-* [Authentication](mitigations/coding/Authentication.html)
-* [Python specific mitigations](mitigations/coding/Python.html)
-* [JavaScript specific mitigations](mitigations/coding/Javascript.html)
-* [JavaScript versions](mitigations/coding/JavaScript-versions.html)
+* [Coding](https://tymyrddin.github.io/app-mitigations/docs/coding/README.html)
+* [Input validation](https://tymyrddin.github.io/app-mitigations/docs/coding/Input.html)
+* [Output validation](https://tymyrddin.github.io/app-mitigations/docs/coding/Output.html)
+* [Authentication](https://tymyrddin.github.io/app-mitigations/docs/coding/Authentication.html)
+* [Python specific https://tymyrddin.github.io/app-mitigations/docs](https://tymyrddin.github.io/app-mitigations/docs/coding/Python.html)
+* [JavaScript specific https://tymyrddin.github.io/app-mitigations/docs](https://tymyrddin.github.io/app-mitigations/docs/coding/Javascript.html)
+* [JavaScript versions](https://tymyrddin.github.io/app-mitigations/docs/coding/JavaScript-versions.html)
 
 ## Libraries and frameworks
     
-* [Libraries and frameworks](mitigations/libraries/README.html)
-* [npm](mitigations/libraries/npm.html)
-* [PyPI](mitigations/librarirs/PyPI.html)
+* [Libraries and frameworks](https://tymyrddin.github.io/app-mitigations/docs/libraries/README.html)
+* [npm](https://tymyrddin.github.io/app-mitigations/docs/libraries/npm.html)
+* [PyPI](https://tymyrddin.github.io/app-mitigations/docs/librarirs/PyPI.html)
 
 ## Protocols
 
-* [Protocols](mitigations/protocols/README.html)
-* [TLS/SSL PKI](mitigations/protocols/TLS-SSL-PKI.html)
+* [Protocols](https://tymyrddin.github.io/app-mitigations/docs/protocols/README.html)
+* [TLS/SSL PKI](https://tymyrddin.github.io/app-mitigations/docs/protocols/TLS-SSL-PKI.html)
 
 ## Databases
     
@@ -35,12 +35,12 @@
 
 ## Testing
 
-* [Testing](mitigations/testing/README.html)
-* [Architecture and design validation](mitigations/testing/Architecture-and-design-validation.html)
-* [Configuration analyses](mitigations/testing/Configuration-analyses.html)
-* [Code reviews](mitigations/testing/Code-reviews.html)
-* [Source code analysis](mitigations/testing/Source-code-analysis.html)
-* [Web application vulnerability scanning](mitigations/testing/Web-application-vulnerability-scanning.html)
-* [Web service scanning](mitigations/testing/Web-service-scanning.html)
-* [Network vulnerability scanning](mitigations/testing/Network-vulnerability-scanning.html)
-* [Database frangibility scanning](mitigations/testing/Database-frangibility-scanning.html)
+* [Testing](https://tymyrddin.github.io/app-mitigations/docs/testing/README.html)
+* [Architecture and design validation](https://tymyrddin.github.io/app-mitigations/docs/testing/Architecture-and-design-validation.html)
+* [Configuration analyses](https://tymyrddin.github.io/app-mitigations/docs/testing/Configuration-analyses.html)
+* [Code reviews](https://tymyrddin.github.io/app-mitigations/docs/testing/Code-reviews.html)
+* [Source code analysis](https://tymyrddin.github.io/app-mitigations/docs/testing/Source-code-analysis.html)
+* [Web application vulnerability scanning](https://tymyrddin.github.io/app-mitigations/docs/testing/Web-application-vulnerability-scanning.html)
+* [Web service scanning](https://tymyrddin.github.io/app-mitigations/docs/testing/Web-service-scanning.html)
+* [Network vulnerability scanning](https://tymyrddin.github.io/app-mitigations/docs/testing/Network-vulnerability-scanning.html)
+* [Database frangibility scanning](https://tymyrddin.github.io/app-mitigations/docs/testing/Database-frangibility-scanning.html)
