@@ -31,7 +31,7 @@
 
 ## Databases
     
-* [Databases](databases/README.html)
+* [Databases](https://tymyrddin.github.io/app-mitigations/docs/databases/README.html)
 
 ## Testing
 
