@@ -1,4 +1,4 @@
-# Mail server mitigations
+# Mailserver mitigations
 
 * [Postfix](https://tymyrddin.github.io/mailserver-mitigations/docs/Postfix.html)
 * [Dovecot](https://tymyrddin.github.io/mailserver-mitigations/docs/Dovecot.html)

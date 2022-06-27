@@ -1,4 +1,4 @@
-# Linux server mitigations
+# Mitigations
 
 ![Publish Mitigations using Sphinx](https://github.com/tymyrddin/mitigations/workflows/Publish%20Mitigations%20using%20Sphinx/badge.svg?branch=main)
  Deployed: https://tymyrddin.github.io/mitigations/
