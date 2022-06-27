@@ -10,6 +10,5 @@ Mitigations
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Mitigations
 
    docs/*
