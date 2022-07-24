@@ -13,6 +13,7 @@ Mitigations
    :caption: Phones
 
    Android <https://tymyrddin.github.io/android-mitigations/>
+   iOS <https://tymyrddin.github.io/ios-mitigations/>
 
 .. toctree::
    :caption: Administration
