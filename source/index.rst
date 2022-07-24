@@ -11,15 +11,11 @@ Mitigations
    Personal data mitigations <https://tymyrddin.github.io/data-mitigations/>
 
 .. toctree::
-   :caption: Servers
+   :caption: Administration
 
    Linux server mitigations <https://tymyrddin.github.io/linux-server-mitigations/>
    Webserver mitigations <https://tymyrddin.github.io/webserver-mitigations/>
    Mailserver mitigations <https://tymyrddin.github.io/mailserver-mitigations/>
-
-.. toctree::
-   :caption: Network
-
    Network mitigations <https://tymyrddin.github.io/network-mitigations/>
 
 .. toctree::
