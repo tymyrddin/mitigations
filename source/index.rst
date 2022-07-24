@@ -16,7 +16,7 @@ Mitigations
    iOS <https://tymyrddin.github.io/ios-mitigations/>
 
 .. toctree::
-   :caption: Administration
+   :caption: System administration
 
    Linux server <https://tymyrddin.github.io/linux-server-mitigations/>
    Webserver <https://tymyrddin.github.io/webserver-mitigations/>
