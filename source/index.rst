@@ -1,6 +1,9 @@
 Mitigations
 =================================================
 
+Some starting points for the blue team in a digital landscape formed by nature's own processes and humanoid activities
+troughout decades.
+
 .. toctree::
    :caption: PC's and workstations
 
