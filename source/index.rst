@@ -10,13 +10,17 @@ troughout decades.
    macOS <https://tymyrddin.github.io/macos-mitigations/>
    Windows PC <https://tymyrddin.github.io/windows-pc-mitigations/>
    Linux PC <https://tymyrddin.github.io/linux-pc-mitigations/>
-   Personal data <https://tymyrddin.github.io/data-mitigations/>
 
 .. toctree::
    :caption: Phones
 
    Android <https://tymyrddin.github.io/android-mitigations/>
    iOS <https://tymyrddin.github.io/ios-mitigations/>
+
+.. toctree::
+   :caption: Data
+
+   Personal data <https://tymyrddin.github.io/data-mitigations/>
 
 .. toctree::
    :caption: System administration
